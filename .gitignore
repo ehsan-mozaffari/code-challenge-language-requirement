@@ -1,1 +1,15 @@
+logs
+project/target
 target/
+*.class
+*.cache
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+*.attach*
+.scannerwork
+*.patch
+*.iml
