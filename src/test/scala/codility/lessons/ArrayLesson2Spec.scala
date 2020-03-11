@@ -1,4 +1,4 @@
-package codility
+package codility.lessons
 
 import org.scalatest.{FlatSpec, Matchers}
 

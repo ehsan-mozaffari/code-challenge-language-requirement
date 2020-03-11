@@ -1,4 +1,4 @@
-package codility
+package codility.lessons
 
 object ArraysLesson2 {
 
